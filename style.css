@@ -27,6 +27,7 @@
   }
   .topnav .search-container {
     float: right;
+    border-radius: 15px;
   }
   
   .topnav input[type=text] {
@@ -34,6 +35,7 @@
     margin-top: 8px;
     font-size: 17px;
     border: none;
+    border-radius: 15px;
   }
   
   .topnav .search-container button {
@@ -45,6 +47,7 @@
     font-size: 17px;
     border: none;
     cursor: pointer;
+    border-radius: 15px;
   }
   
   .topnav .search-container button:hover {
