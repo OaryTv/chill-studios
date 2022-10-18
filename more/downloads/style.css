@@ -120,6 +120,7 @@ a {
 }
 
 .topnav {
+    border-radius: 15px;
     background-color: #333;
     overflow: hidden;
   }
@@ -147,6 +148,7 @@ a {
   }
   .topnav .search-container {
     float: right;
+    border-radius: 15px;
   }
   
   .topnav input[type=text] {
@@ -154,6 +156,7 @@ a {
     margin-top: 8px;
     font-size: 17px;
     border: none;
+    border-radius: 15px;
   }
   
   .topnav .search-container button {
@@ -165,6 +168,7 @@ a {
     font-size: 17px;
     border: none;
     cursor: pointer;
+    border-radius: 15px;
   }
   
   .topnav .search-container button:hover {
