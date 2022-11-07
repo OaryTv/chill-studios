@@ -1,6 +1,9 @@
 a{
         text-decoration : none;
 }
+h3 {
+        color: white;
+}
 html {  
         font-family: OCR A Std, monospace;
         height: 100%;
